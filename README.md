@@ -6,7 +6,6 @@ This project presents an end-to-end Python-based data analytics and machine lear
 
 The project covers the complete analytics lifecycle, including data loading, preprocessing, exploratory data analysis (EDA), bottleneck detection, root cause analysis, feature engineering, machine learning modeling, and performance evaluation. The primary objective was to identify the major factors contributing to delayed deliveries and develop predictive models capable of forecasting late delivery risks.
 
-
 # Dataset Information
 
 The dataset contains supply chain transaction and delivery-related information collected from an e-commerce and logistics environment. It includes various operational, customer, product, and shipping-related attributes such as:
