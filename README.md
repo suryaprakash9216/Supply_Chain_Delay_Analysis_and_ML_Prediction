@@ -6,7 +6,6 @@ This project presents an end-to-end Python-based data analytics and machine lear
 
 The project covers the complete analytics lifecycle, including data loading, preprocessing, exploratory data analysis (EDA), bottleneck detection, root cause analysis, feature engineering, machine learning modeling, and performance evaluation. The primary objective was to identify the major factors contributing to delayed deliveries and develop predictive models capable of forecasting late delivery risks.
 
----
 
 # Dataset Information
 
@@ -26,7 +25,6 @@ The dataset was processed and cleaned in Python before performing analysis and m
 
 > Note: The dataset was excluded from the repository due to GitHub file size limitations.
 
----
 
 # Tools & Technologies Used
 
@@ -47,8 +45,6 @@ The dataset was processed and cleaned in Python before performing analysis and m
 * Scikit-learn
 * XGBoost
 * SMOTE
-
----
 
 # Project Workflow
 
@@ -76,8 +72,6 @@ Additional features created include:
 * Order Hour
 * Delayed Order Indicators
 
----
-
 ## 3. Exploratory Data Analysis (EDA)
 
 Exploratory analysis was performed to identify supply chain delivery patterns and operational insights. The analysis included:
@@ -96,8 +90,6 @@ Exploratory analysis was performed to identify supply chain delivery patterns an
 
 Several visualizations were created using Matplotlib and Seaborn to support the analysis.
 
----
-
 ## 4. Bottleneck & Root Cause Analysis
 
 Detailed bottleneck analysis was performed to identify the major operational factors contributing to late deliveries. The analysis included:
@@ -110,8 +102,6 @@ Detailed bottleneck analysis was performed to identify the major operational fac
 * Profit impact caused by delivery delays
 
 The project also analyzed high-risk operational areas responsible for poor delivery performance.
-
----
 
 ## 5. Machine Learning Modeling
 
@@ -144,8 +134,6 @@ Models were evaluated using:
 
 The machine learning models successfully identified patterns associated with delayed deliveries and helped classify high-risk orders.
 
----
-
 # Key Business Insights
 
 * Certain shipping modes showed consistently higher delivery delays.
@@ -153,8 +141,6 @@ The machine learning models successfully identified patterns associated with del
 * Delayed deliveries negatively impacted operational profitability.
 * Order timing patterns influenced delivery performance.
 * Machine learning models were able to predict late delivery risks with strong performance.
-
----
 
 # How to Run the Project
 
@@ -188,8 +174,6 @@ Execute all cells sequentially to perform:
 * Bottleneck analysis
 * Machine learning modeling
 
----
-
 # Project Files
 
 | File Name                                             | Description                                            |
@@ -197,15 +181,11 @@ Execute all cells sequentially to perform:
 | `Supply_Chain_Delay_Analysis_and_ML_Prediction.ipynb` | Complete Python analysis and machine learning workflow |
 | `README.md`                                           | Project documentation                                  |
 
----
-
 # Conclusion
 
 This project demonstrates practical data analytics and machine learning skills by combining Python-based data preprocessing, exploratory analysis, visualization, bottleneck detection, and predictive modeling to analyze supply chain delivery performance.
 
 The project highlights the complete analytical workflow from raw operational data processing to predictive machine learning modeling and insight generation. It showcases the ability to transform supply chain transaction data into actionable business insights using modern data analytics and machine learning techniques.
-
----
 
 # Author
 
